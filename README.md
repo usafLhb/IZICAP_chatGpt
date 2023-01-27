@@ -43,6 +43,8 @@ This is a Spring Boot application that allows users to communicate with OpenAI's
 
 
 ## VIEW :
+![izicap](https://user-images.githubusercontent.com/44303541/215215476-8e1b42d4-b85b-445a-b002-1bc85e8fa061.png)
+
 https://drive.google.com/file/d/1i5j9rRRwt6ai9JSEwN2Uv6WBdQsrkZL1/view?usp=sharing
 
 ## Structure 
