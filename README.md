@@ -43,13 +43,15 @@ This is a Spring Boot application that allows users to communicate with OpenAI's
 
 
 ## VIEW :
-![izicap](https://user-images.githubusercontent.com/44303541/215215476-8e1b42d4-b85b-445a-b002-1bc85e8fa061.png)
-
 https://drive.google.com/file/d/1i5j9rRRwt6ai9JSEwN2Uv6WBdQsrkZL1/view?usp=sharing
-
+![izicap](https://user-images.githubusercontent.com/44303541/215216320-88f95df4-c709-413e-a42b-0af697e047e3.png)
 ## Structure 
+![structure](https://user-images.githubusercontent.com/44303541/215216169-9b23b3ac-5ebb-4a95-a7d6-6b2efcc363c5.png)
 https://drive.google.com/file/d/1w-bnOCjXtr0bwr8eofs1bmLj40-fZ9BU/view?usp=sharing
 ## Docker
+![docker](https://user-images.githubusercontent.com/44303541/215216209-abb9208a-4eab-4f82-b66c-91f94606a36f.png)
+
 https://drive.google.com/file/d/1SKlvuvmlU78RJ2_9ZJJWUr9n7CJAcuiq/view?usp=sharing
 ## Image
+![image d](https://user-images.githubusercontent.com/44303541/215216414-6c522b49-03d3-404e-a9bb-7ee711ec4212.png)
 https://drive.google.com/file/d/1ALqFWla5yMr5adEPBa_cA_JWsT0dzL2J/view?usp=sharing
