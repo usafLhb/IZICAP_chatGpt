@@ -1,0 +1,13 @@
+de\bsi\ia\IZICAP\ApiClient\OpenAiApiClient.class
+de\bsi\ia\IZICAP\ApiClient\OpenAiApiClient$1.class
+de\bsi\ia\IZICAP\controller\ChatGptController.class
+de\bsi\ia\IZICAP\ApiClient\OpenAiApiClient$OpenAiService.class
+de\bsi\ia\IZICAP\Completion\CompletionResponse$Choice.class
+de\bsi\ia\IZICAP\Completion\CompletionRequest.class
+de\bsi\ia\IZICAP\Completion\CompletionResponse.class
+de\bsi\ia\IZICAP\DTO\ChatGPTResponse.class
+de\bsi\ia\IZICAP\Completion\CompletionResponse$Usage.class
+de\bsi\ia\IZICAP\DTO\ChatGPTRequest.class
+de\bsi\ia\IZICAP\DTO\FormInputDTO.class
+de\bsi\ia\IZICAP\response\ChatGPTCSVWriter.class
+de\bsi\ia\ChatgptApplication.class
