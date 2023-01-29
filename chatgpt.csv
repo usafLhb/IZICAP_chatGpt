@@ -1,0 +1,7 @@
+
+{
+ "question" : "what is spring boot",
+ "answer": "
+
+Spring Boot is an open source Java-based framework used to create a micro-service. It is a powerful tool that allows developers to quickly create applications using an opinionated approach, meaning that it provides a collection of pre-configured dependencies and auto-configuration that can be used to create a production-grade application with minimal effort. Spring Boot also provides a lot of features such as embedded Tomcat, auto-configuration, and testing support."
+ }
